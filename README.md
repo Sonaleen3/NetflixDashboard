@@ -1,6 +1,8 @@
 # NetflixDashboard
 
 TITLE : Netflix Dashboard
+
+
 DESCRIPTION :
 The Netflix Dashboard is an interactive data visualization project designed to analyze and explore Netflix’s content library using multiple visual elements. The dashboard provides insights into content distribution, genres, release trends, and type of content available on the platform.
 
@@ -13,3 +15,4 @@ Additionally, a stacked bar chart is used to analyze content distribution across
 Overall, this dashboard transforms raw Netflix data into meaningful insights through interactive visuals, enabling users to quickly understand content trends, distribution, and patterns within the platform’s catalog.
 
 Screenshot :
+https://github.com/Sonaleen3/NetflixDashboard/blob/main/NetflixDashboard.png
